@@ -1,7 +1,7 @@
-# regular
+# 正则收集器
 
 ## Project setup
-```
+```!
 npm install
 ```
 
